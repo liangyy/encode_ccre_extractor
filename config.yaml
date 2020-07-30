@@ -1,0 +1,2 @@
+outdir: 'output'
+merge_bed_exe: 'mergeBed' # on CRI, need to pre-load bedtools: e.g.  module load gcc/6.2.0; module load bedtools/2.29.0
